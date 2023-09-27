@@ -29,13 +29,13 @@ z-index: 3
 margin-top.rem: -72
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
-twitter-url: https://twitter.com/
+-- profile.wrapper: Janhvi Dewda
+avatar: $assets.files.images.janvi.png
+city: Nagpur
+github-url: https://github.com/janhvi-1
+linkedin-url: https://www.linkedin.com/in/janhvi-dewda-899140265/
+instagram-url: https://www.instagram.com/_.janhviii._/
+twitter-url: https://twitter.com/DewdaJanhvi27
 
 -- end: ftd.container
 
@@ -78,13 +78,13 @@ z-index: 3
 margin-top.rem: -70
 border-radius.px: 10
 
--- profile.wrapper: Victor Crest
-avatar: $assets.files.images.image-victor.jpg
-city: London
-github-url: https://www.github.com/
-linkedin-url: https://www.linkedin.com/
-instagram-url: https://www.instagram.com/
-twitter-url: https://twitter.com/
+-- profile.wrapper: Janhvi Dewda
+avatar: $assets.files.images.janvi.png
+city: Nagpur
+github-url: https://github.com/janhvi-1
+linkedin-url: https://www.linkedin.com/in/janhvi-dewda-899140265/
+instagram-url: https://www.instagram.com/_.janhviii._/
+twitter-url: https://twitter.com/DewdaJanhvi27
 
 -- end: ftd.container
 
