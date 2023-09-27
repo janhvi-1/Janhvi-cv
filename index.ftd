@@ -30,7 +30,7 @@ margin-top.rem: -72
 border-radius.px: 10
 
 -- profile.wrapper: Janhvi Dewda
-avatar: $assets.files.images.janvi.png
+avatar: $assets.files.images.janu.jpg
 city: Nagpur
 github-url: https://github.com/janhvi-1
 linkedin-url: https://www.linkedin.com/in/janhvi-dewda-899140265/
@@ -79,7 +79,7 @@ margin-top.rem: -70
 border-radius.px: 10
 
 -- profile.wrapper: Janhvi Dewda
-avatar: $assets.files.images.janvi.png
+avatar: $assets.files.images.janu.jpg
 city: Nagpur
 github-url: https://github.com/janhvi-1
 linkedin-url: https://www.linkedin.com/in/janhvi-dewda-899140265/
